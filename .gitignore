@@ -6,3 +6,6 @@ __pycache__/
 .env
 .DS_Store
 .claude/plans/
+
+# Reference / temporary images used as design mockups
+Temp_Img/
