@@ -42,3 +42,9 @@ Match the style of terms.html.
 footer link href from "#" to "/privacy".
 
 git commit -m "landing: add privacy policy page and route"
+
+Modify only the hero section in @templates/landing.html and 
+@static/css/style.css to match this image @Temp_Img/hero_img.png exactly. 
+Do not touch any other part of the page.
+
+git commit -m "landing: redesign hero section to match mockup"
